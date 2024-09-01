@@ -1,8 +1,8 @@
 --[[ 
     *********************************************
     *   Solara Version Script
-    *   made by venox
-    *   Place this file in the "autoexec" folder
+    *   made by star2
+    *   
     *********************************************
 ]]
 
